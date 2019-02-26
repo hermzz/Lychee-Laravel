@@ -16,6 +16,7 @@
         "laravel/framework": "5.7.*",
         "laravel/tinker": "^1.0",
         "maennchen/zipstream-php": "^0.5.2",
+        "miljar/php-exif": "^0.6.4",
         "php-ffmpeg/php-ffmpeg": "^0.13.0"
     },
     "require-dev": {
